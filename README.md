@@ -14,3 +14,8 @@ FEATURES:
 * Custom Attributes - Easily adaptable via before and after attributes
 
 ![Project Demo](assets/before-after-gif.gif)
+
+www.pickeringandsons.com
+* Component uses on website build for building contractor. 
+
+![Project Demo](assets/pickering-slider.gif)
