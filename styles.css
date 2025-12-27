@@ -1,8 +1,9 @@
 /* setup for the slider on index page  */
 .slider-wrapper {
+        width: 95%;
         max-width: 350px; 
-        margin: 40px auto; 
+        margin: 0 auto; 
         padding: 0 20px;   
     }
 
-    
+

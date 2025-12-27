@@ -21,6 +21,10 @@ class ImageSlider extends HTMLElement {
 // HTML div used to contact images and create slider effect 
         this.shadowRoot.innerHTML = `
             <style>
+                :host {
+                    display: block;
+                    width: 100%; 
+}
                 .container {
                     position: relative;
                     width: 100%;
