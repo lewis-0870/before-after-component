@@ -1,0 +1,5 @@
+.slider-wrapper {
+        max-width: 350px; /* Change this to the size you want */
+        margin: 40px auto; /* Centers it and adds space top/bottom */
+        padding: 0 20px;   /* Prevents it hitting the edges on mobile */
+    }
